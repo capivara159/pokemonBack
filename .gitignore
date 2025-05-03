@@ -1,0 +1,24 @@
+# Diretórios de build e dependências
+bin/
+obj/
+
+# Arquivos de configuração local
+appsettings.Development.json
+
+# Arquivos do usuário
+*.user
+*.suo
+*.userprefs
+
+# VS Code
+.vscode/
+
+# Dependências NuGet
+packages/
+
+# Migrações do EF Core (opcional - só ignore se não quiser versionar)
+# Migrations/
+
+# Arquivos de log e temp
+*.log
+*.tmp
