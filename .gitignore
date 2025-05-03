@@ -22,3 +22,4 @@ packages/
 # Arquivos de log e temp
 *.log
 *.tmp
+.vercel
